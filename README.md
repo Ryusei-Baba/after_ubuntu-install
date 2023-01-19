@@ -3,7 +3,7 @@ ubuntuインストール後の設定など．．．
 
 
 ## インストールするもの
-nvidia-driver, cuda, cuDNN, Pytorch, ROS，Slack, Vim, chrome, terminator, VSCode, Discord, AnyDesk
+nvidia-driver, cuda, cuDNN, PyTorch, ROS，Slack, Vim, chrome, terminator, VSCode, Discord, AnyDesk, zoom
 
 
 ## 設定
